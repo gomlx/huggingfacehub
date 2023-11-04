@@ -1,4 +1,4 @@
-module huggingfacehub
+module github.com/gomlx/huggingfacehub
 
 go 1.21
 
